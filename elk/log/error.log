@@ -1,0 +1,2 @@
+2025/12/02 21:16:36 [error] 29#29: *2 open() "/usr/share/nginx/html/bruh" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /bruh HTTP/1.1", host: "localhost"
+2025/12/02 21:28:41 [error] 32#32: *4 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
